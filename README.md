@@ -1,4 +1,4 @@
-### The "95% Signal" AI Reading List
+# Top AI Papers List
 
 This collection brings together the highest-signal research papers in modern AI—from the invention of the Transformer to the frontier work of 2024–2025—into a single, curated map of the field. Its purpose is to give researchers, engineers, and newcomers a clear understanding of the ideas that power today’s leading models: large-scale training principles, modern optimization methods like DPO and GRPO, efficient architectures such as FlashAttention and Mamba, next-generation generative models like Flow Matching, and the rise of agentic, system-2 reasoning.
 
