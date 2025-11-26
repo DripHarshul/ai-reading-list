@@ -38,8 +38,3 @@
 | **The Bitter Lesson** | **Core Philosophy.** Rich Sutton's famous essay arguing that general methods that leverage computation (search and learning) always eventually beat human-engineered domain knowledge. | [Blog Post](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) |
 | **Adam: A Method for Stochastic Optimization** | **The Optimizer.** The default optimization algorithm used to train virtually every modern neural network foundation model. | [Arxiv](https://arxiv.org/abs/1412.6980) |
 
------
-
-### **Recommended Next Step**
-
-Would you like me to generate a **"1-Paragraph Summary"** for any specific paper in this list to help you decide which one to read first?
