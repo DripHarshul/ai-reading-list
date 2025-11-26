@@ -11,3 +11,5 @@ ai-reading-list
 - mamba 1 and mamba2
 - multi grouped query attention
 - Adam: A Method for Stochastic Optimization
+- The bitter lesson
+- Diffusion transformers
