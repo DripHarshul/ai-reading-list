@@ -1,23 +1,8 @@
 ### The "95% Signal" AI Reading List
 
+This collection brings together the highest-signal research papers in modern AI—from the invention of the Transformer to the frontier work of 2024–2025—into a single, curated map of the field. Its purpose is to give researchers, engineers, and newcomers a clear understanding of the ideas that power today’s leading models: large-scale training principles, modern optimization methods like DPO and GRPO, efficient architectures such as FlashAttention and Mamba, next-generation generative models like Flow Matching, and the rise of agentic, system-2 reasoning.
 
-This resource is designed to serve as a **single, unified, and carefully curated map of the most important research papers in modern artificial intelligence**, spanning the foundational breakthroughs of the past decade to the cutting-edge advancements of the 2024–2025 frontier. The goal is to bring together, in one place, the essential works that every researcher, engineer, or curious newcomer should understand in order to gain a deep and structured grasp of how today’s most powerful AI systems are built, trained, scaled, aligned, and deployed.
-
-Rather than forcing learners to navigate thousands of scattered papers, blog posts, and technical reports, this list distills the field down to **the core ideas that have shaped contemporary AI**:
-
-* the invention of the Transformer and attention-based architectures;
-* the philosophy and empirical evidence behind large-scale training;
-* modern optimization and training techniques such as DPO, RL-based reasoning, and GRPO;
-* breakthroughs in efficient attention (FlashAttention), state-space models (Mamba), and scalable inference;
-* the rise of agentic systems, system-2 reasoning, and long-horizon RL for LLMs;
-* the emergence of next-generation generative modeling paradigms such as Flow Matching;
-* and the philosophical frameworks—like the Bitter Lesson and Scaling Laws—that explain *why* the field evolves the way it does.
-
-This document aims to be **a high-signal introduction to the field**, giving newcomers the ability to rapidly understand not only *what* the most influential papers are, but also *why they matter*, how they connect to one another, and how they underpin the capabilities of models like GPT-4+, Claude, DeepSeek-R1, Llama 3, Kimi K2, Sora, Stable Diffusion 3, Flux, and the next generation of agentic AI systems.
-
-By reading through the works collected here, a newcomer can trace the complete arc of modern AI—from first principles and foundational architectures to emergent reasoning, agentic behavior, and frontier-scale training techniques—without needing prior expertise or years of background research. The intention is to make the path into AI research **clearer, faster, and intellectually grounded**, and to serve as a living reference that evolves with the state of the art.
-
-If you’re beginning your journey into AI research or seeking to deepen your understanding of how today’s most advanced systems work, this collection provides the **most important conceptual building blocks** in one comprehensive, navigable place.
+Rather than navigating thousands of scattered sources, readers can use this list to quickly grasp how foundational breakthroughs connect to state-of-the-art systems like GPT-4+, DeepSeek-R1, Llama 3, Sora, Kimi K2, and Flux. It serves as a compact, evolving reference that traces the arc of modern AI—from first principles to emergent reasoning and long-horizon agentic behavior—providing the essential conceptual building blocks in one accessible place.
 
 
 ## Papers
